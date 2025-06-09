@@ -1,6 +1,6 @@
 # CamposAguado_Algoritmo_de_Dijkstra
 
-# Simulador del Algoritmo de Dijkstra (Consola + Visualización Gráfica)
+# Simulador del Algoritmo de Dijkstra
 
 Este proyecto implementa el **Algoritmo de Dijkstra** en Python, simulando paso a paso en consola el proceso de búsqueda del camino más corto, y mostrando una visualización gráfica del resultado final utilizando `NetworkX` y `Matplotlib`.
 
